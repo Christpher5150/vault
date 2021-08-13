@@ -29,7 +29,7 @@
     "@hashicorp/react-text-splits": "3.2.2",
     "@hashicorp/react-use-cases": "4.0.0",
     "@hashicorp/react-vertical-text-block-list": "6.0.2",
-    "next": "10.2.2",
+    "next": "11.1.0",
     "next-mdx-remote": "3.0.2",
     "next-remote-watch": "1.0.0",
     "react": "16.14.0",
